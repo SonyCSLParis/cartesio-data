@@ -8,3 +8,8 @@
 
 The spread of fake news is a danger to public opinion forming in a democratic society in which the information system and the media play a fundamental role. Orientation is not easy, especially on the web: the multiplicity of sources, the speed of news updates, the abundance of information complicate the choice. By taking part in the Cartesio project, you can contribute in person to providing the cognitive elements to help citizens disentangle themselves from the online information system. All you have to do is answer a few questions and have your say: during the experience you will be able to assess the reliability of the news and express your opinion on some of the most important phenomena affecting our society. Your contribution will help to better understand how news is perceived and to improve the quality of information!
 
+### Coming soon
+
+We are currently working on the scientific analysis of the results but in the meanwhile ... check them out! You can find theme here: 
+#### [Download the datasets](https://github.com/SonyCSLParis/cartesio-data)
+
