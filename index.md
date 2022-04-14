@@ -13,3 +13,20 @@ The spread of fake news is a danger to public opinion forming in a democratic so
 We are currently working on the scientific analysis of the results but in the meanwhile ... check them out! You can find theme here: 
 #### [Download the datasets](https://github.com/SonyCSLParis/cartesio-data)
 
+## Credits
+### AGCOM
+[AGCOM] (www.agcom.it) (Autorità per le Garanzie nelle Comunicazioni) is the institution responsible in Italy for regulating and supervising the telecommunications, postal services and media sectors. In particular, it supervises the information system, also by developing methodologies and instruments aimed at verifying the quality of information. It is the independent authority entrusted by law with the task of promoting competition, safeguarding the pluralism of information and protecting the rights of users in the communications sector.
+Economic and Statistical Service
+
+
+### SONY CSL
+[Sony CSL Paris] (https://csl.sony.fr/) is a research laboratory that uses the tools of Complexity Science, Data Science and Artificial Intelligence to investigate key issues in very different areas: from linguistic and communication systems to music, from sustainability and the environment to the dynamics of innovation and creativity. In this context, the Creativity team, one of the promoters of the Cartesio project, focuses on the way the "new" - understood as a concept created by a human or artificial mind - emerges in human, social, technological and artificial systems, implementing a series of initiatives aimed at the study of creative processes, the exploration of conceptual spaces (including news) and the application of AI to creativity.
+#### Pietro Gravino
+#### Enrico Ubaldi (former employee)
+#### Vittorio Loreto
+
+
+### Sapienza
+With over 700 years of history, more than 113,000 students in total, 3,300 professors and 2,000 civil servants, technicians and librarians as well as 1,800 administrative staff in hospitals, [Sapienza] (https://www.uniroma1.it/) is the leading university in Europe. Its mission is to contribute to the development of the knowledge society through research, excellence and quality education and international cooperation. The Department of Physics is the natural heir to the tradition of Enrico Fermi, Franco Rasetti, Ettore Majorana, Edoardo Amaldi (the Rome School), and is renowned worldwide for the high quality of its research, international prestige and variety of its teaching offerings.
+Social Dynamics Lab
+#### Ruggiero Lo Sardo
